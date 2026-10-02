@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack and AI-based web projects  <br>👯 I’m looking to collaborate on Web Development projects  <br>🤝 I’m looking for help with backend development and deployment  <br>🌱 I’m currently learning Advanced React.js and Node.js  <br>💬 Ask me about HTML, CSS, JavaScript, React.js, and MongoDB  <br>⚡ Fun fact: I enjoy creating clean and responsive user interfaces
+🔭 I’m currently working on MERN Stack and AI-based web projects  <br>👯 I’m looking to collaborate on Web Development projects  <br>🤝 I’m looking for help with backend development and deployment  <br>🌱 I’m currently learning Advanced React.js and Node.js  <br>💬 Ask me about HTML, CSS, JavaScript, React.js, SQL and MongoDB  <br>⚡ Fun fact: I enjoy creating clean and responsive user interfaces
 
 
 ## 🌐 Socials:
